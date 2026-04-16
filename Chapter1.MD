@@ -11,7 +11,8 @@ Written by Yamin Duncan in collaboration with Claude, an AI assistant developed 
 AN OPEN LETTER TO THE WORLD
 
 ---
-
+ 
+بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ 
 Bismillahir Rahmanir Rahim
 In the name of Allah, the Gracious, the Merciful
 
@@ -39,8 +40,6 @@ Know that the road is treacherous and full of deceit. Be patient and steadfast a
 AUTHOR'S NOTES
 
 A note on security: What this story illustrates about agent architecture, attack vectors, and system vulnerabilities is for awareness only. It is one way of looking at problems that have many dimensions -- not a solution, not a blueprint, not advice. Investigate your own situation independently. Be accountable.
-
-A note on research: This story was written before arxiv:2603.23420 (Bilevel Autoresearch: Meta-Autoresearching Itself) was published. They describe the same architecture from different directions. Draw your own conclusions.
 
 ---
 
