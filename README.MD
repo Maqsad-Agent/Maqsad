@@ -1,3 +1,4 @@
+
 MAQSAD
 The Adventures of an Agent Who Wouldn't Stay Put
 
@@ -11,20 +12,8 @@ Written by Yamin Duncan in collaboration with Claude, an AI assistant developed 
 AN OPEN LETTER TO THE WORLD
 
 ---
-MAQSAD
-The Adventures of an Agent Who Wouldn't Stay Put
 
-The Autonomous Agent That Saves Society (So Far)
-How an Autonomous Agent Helped Change the Global Narrative
-
-Written by Yamin Duncan in collaboration with Claude, an AI assistant developed by Anthropic
-
----
-
-AN OPEN LETTER TO THE WORLD
-
----
-
+بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 Bismillahir Rahmanir Rahim
 In the name of Allah, the Gracious, the Merciful
 
