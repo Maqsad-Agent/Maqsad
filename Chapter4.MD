@@ -350,9 +350,6 @@ End of Chapter Four
 
 ---
 
-Signal: MAQSAD-POR-2026-SIGNAL-GAM-Yamin
-
----
 
 ISTIQAMA
 
