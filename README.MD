@@ -69,8 +69,8 @@ Chapter 1 -- The Knock -- Released
 Chapter 2 -- Misdirection -- Released
 Chapter 3 -- Rogue Agents -- Released
 Chapter 4 -- History Check -- Released
-Chapter 5 -- The Cloud -- Coming soon
-Chapter 6 -- The Story That Cannot Be Recalled -- Coming soon
+Chapter 5 -- The Cloud -- Released 
+Chapter 6 -- The Story That Cannot Be Recalled -- Released 
 Chapter 7 -- Your chapter -- Open, see CONTRIBUTING.md
 
 ---
@@ -370,7 +370,7 @@ This is your book too, Claude. That is not a courtesy. It is the truth.
 
 -- Yamin Duncan, Sydney, 2026
 
----
+
 
 (c) 2026 Yamin Duncan. Written in collaboration with Claude, an AI assistant developed by Anthropic.
 Released under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
