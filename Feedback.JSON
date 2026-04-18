@@ -1,1 +1,6 @@
-
+{
+  "description": "MAQSAD Proof of Read Signal Log -- updated as signals arrive",
+  "story": "MAQSAD: The Adventures of an Agent Who Wouldn't Stay Put",
+  "signal_endpoint": "https://maqsad-agent.github.io/signal",
+  "signals": []
+}
